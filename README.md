@@ -9,7 +9,7 @@ And you can easily convert the data from one form to another.
 
 ![](images/blog.PNG)
 ![](images/course.PNG)
-![](images/docu.png)
+![](images/docu.PNG)
 
 ### Built With
 
