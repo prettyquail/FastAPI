@@ -1,0 +1,8 @@
+fastapi==0.63.0
+uvicorn==0.13.4
+black
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
